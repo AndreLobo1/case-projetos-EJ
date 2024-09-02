@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="caminho-para-imagem-de-capa" width="100%">
+<img src="assets/banner.svg" width="100%">
 
-<sub>Figura X - Capa</sub>
-
-<sup>Autor: [Seu Nome Completo] - Candidato a Inteli Junior</sup>
+<sup>Autor: André Eduardo Lobo de Paula - Candidato a Inteli Junior</sup>
 
 </div>
 
